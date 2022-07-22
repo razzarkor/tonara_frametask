@@ -1,0 +1,17 @@
+#profileDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    margin: auto;
+    cursor: pointer;
+}
+
+#profileImage{
+   width: 100px;
+   border-radius: 50%;
+}
+
+#profileFrame{
+    position: absolute;
+}

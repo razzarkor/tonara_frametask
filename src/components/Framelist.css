@@ -1,0 +1,17 @@
+#frameDiv{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 350px;
+    margin: auto;
+}
+
+.frame{
+    margin-bottom: 10px;
+    margin-right: 5px;
+ 
+    cursor: pointer;
+}

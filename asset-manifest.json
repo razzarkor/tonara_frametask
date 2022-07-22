@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tonara_frametask/static/css/main.92dc3646.css",
+    "main.js": "/tonara_frametask/static/js/main.39a5e98e.js",
+    "static/js/787.115c7f12.chunk.js": "/tonara_frametask/static/js/787.115c7f12.chunk.js",
+    "static/media/profile-image.jpg": "/tonara_frametask/static/media/profile-image.fc0296b15f525caff81f.jpg",
+    "index.html": "/tonara_frametask/index.html",
+    "main.92dc3646.css.map": "/tonara_frametask/static/css/main.92dc3646.css.map",
+    "main.39a5e98e.js.map": "/tonara_frametask/static/js/main.39a5e98e.js.map",
+    "787.115c7f12.chunk.js.map": "/tonara_frametask/static/js/787.115c7f12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92dc3646.css",
+    "static/js/main.39a5e98e.js"
+  ]
+}
